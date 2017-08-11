@@ -7,54 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1b6974d-17d6-44b7-887a-585886b0afb7" name="Default" comment="First commit">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/gobang-server.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/gobang.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/bean/ChessPoint.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/bean/GameAction$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/bean/GameAction$10.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/bean/GameAction$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/bean/GameAction$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/bean/GameAction$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/bean/GameAction$5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/bean/GameAction$6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/bean/GameAction$7.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/bean/GameAction$8.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/bean/GameAction$9.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/bean/GameAction.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/bean/GameData.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/bean/GameMode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/common/CONSTANT.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/events/DropChessListener.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/events/LoginListener.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/events/OnGameOverListener.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/events/OnReceiveServerActionListener.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/events/OnServerActionListener.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/logic/GameLogic$clientReceiveThread.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/logic/GameLogic$heartBeatThread.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/logic/GameLogic.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/logic/GameRuler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/logic/ServerLogic$ServeClientThread.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/logic/ServerLogic$ServerThread.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/logic/ServerLogic.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/server/SimpleGameServer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/ui/ChessBoard$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/ui/ChessBoard$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/resources/black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/resources/empty.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/resources/white.png" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/events/OnLoginSuccessListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/ui/MainFrame$1.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/WuZiQi_jar/WuZiQi.jar" afterPath="$PROJECT_DIR$/out/artifacts/WuZiQi_jar/WuZiQi.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/App.class" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/App.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/bean/ChessColor.class" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/bean/ChessColor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/bean/User.class" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/bean/User.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/ui/ChessBoard.class" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/ui/ChessBoard.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/ui/GameInfo.class" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/ui/GameInfo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/ui/LoginFrame$1.class" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/ui/LoginFrame$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/ui/LoginFrame$2.class" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/ui/LoginFrame$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/ui/LoginFrame.class" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/ui/LoginFrame.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/ui/MainFrame.class" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/ui/MainFrame.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -78,8 +30,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="421">
-                <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <first_editor relative-caret-position="37">
+                <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -651,7 +603,7 @@
       <workItem from="1501864752714" duration="828000" />
       <workItem from="1501867139902" duration="62000" />
       <workItem from="1501867268234" duration="84000" />
-      <workItem from="1502438704519" duration="874000" />
+      <workItem from="1502438704519" duration="1176000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1501864060743</created>
@@ -664,7 +616,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22764000" />
+    <option name="totallyTimeSpent" value="23066000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -996,8 +948,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="421">
-            <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <first_editor relative-caret-position="37">
+            <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
