@@ -7,14 +7,55 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1b6974d-17d6-44b7-887a-585886b0afb7" name="Default" comment="First commit">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/gobang-server.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/gobang.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/bean/ChessPoint.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/bean/GameAction$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/bean/GameAction$10.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/bean/GameAction$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/bean/GameAction$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/bean/GameAction$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/bean/GameAction$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/bean/GameAction$6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/bean/GameAction$7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/bean/GameAction$8.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/bean/GameAction$9.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/bean/GameAction.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/bean/GameData.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/bean/GameMode.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/common/CONSTANT.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/events/DropChessListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/events/LoginListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/events/OnGameOverListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/events/OnReceiveServerActionListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/events/OnServerActionListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/logic/GameLogic$clientReceiveThread.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/logic/GameLogic$heartBeatThread.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/logic/GameLogic.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/logic/GameRuler.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/logic/ServerLogic$ServeClientThread.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/logic/ServerLogic$ServerThread.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/logic/ServerLogic.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/server/SimpleGameServer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/ui/ChessBoard$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/ui/ChessBoard$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/resources/black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/resources/empty.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WuZiQi/resources/white.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/events/OnLoginSuccessListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/ui/MainFrame$1.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/WuZiQi_jar/WuZiQi.jar" afterPath="$PROJECT_DIR$/out/artifacts/WuZiQi_jar/WuZiQi.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/App.class" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/App.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/bean/ChessColor.class" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/bean/ChessColor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/bean/User.class" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/bean/User.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/ui/ChessBoard.class" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/ui/ChessBoard.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/ui/GameInfo.class" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/ui/GameInfo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/ui/LoginFrame$1.class" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/ui/LoginFrame$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/ui/LoginFrame$2.class" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/ui/LoginFrame$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/ui/LoginFrame.class" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/ui/LoginFrame.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/ui/MainFrame.class" afterPath="$PROJECT_DIR$/out/production/WuZiQi/com/mrhuo/gobang/ui/MainFrame.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/mrhuo/gobang/App.java" afterPath="$PROJECT_DIR$/src/com/mrhuo/gobang/App.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/mrhuo/gobang/bean/ChessColor.java" afterPath="$PROJECT_DIR$/src/com/mrhuo/gobang/bean/ChessColor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/mrhuo/gobang/bean/User.java" afterPath="$PROJECT_DIR$/src/com/mrhuo/gobang/bean/User.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/mrhuo/gobang/ui/ChessBoard.java" afterPath="$PROJECT_DIR$/src/com/mrhuo/gobang/ui/ChessBoard.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/mrhuo/gobang/ui/GameInfo.java" afterPath="$PROJECT_DIR$/src/com/mrhuo/gobang/ui/GameInfo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/mrhuo/gobang/ui/LoginFrame.java" afterPath="$PROJECT_DIR$/src/com/mrhuo/gobang/ui/LoginFrame.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/mrhuo/gobang/ui/MainFrame.java" afterPath="$PROJECT_DIR$/src/com/mrhuo/gobang/ui/MainFrame.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,19 +74,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LoginFrame.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/mrhuo/gobang/ui/LoginFrame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="65" column="32" lean-forward="true" selection-start-line="65" selection-start-column="32" selection-end-line="65" selection-end-column="32" />
-              <folding>
-                <element signature="e#1244#1245#0" expanded="true" />
-                <element signature="e#1283#1284#0" expanded="true" />
-                <element signature="e#1503#1504#0" expanded="true" />
-                <element signature="e#1586#1587#0" expanded="true" />
-                <element signature="e#2360#2361#0" expanded="true" />
-                <element signature="e#2399#2400#0" expanded="true" />
-              </folding>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="421">
+                <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -97,8 +134,9 @@
         <option value="$PROJECT_DIR$/src/com/mrhuo/gobang/events/OnLoginSuccessListener.java" />
         <option value="$PROJECT_DIR$/src/com/mrhuo/gobang/events/OnUserLoginListener.java" />
         <option value="$PROJECT_DIR$/src/com/mrhuo/gobang/ui/MainFrame.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/com/mrhuo/gobang/ui/LoginFrame.java" />
+        <option value="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -117,7 +155,9 @@
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -147,60 +187,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WuZiQi" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WuZiQi" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WuZiQi" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WuZiQi" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gobang" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WuZiQi" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WuZiQi" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gobang" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -216,6 +202,11 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\JavaWorkspace\WuZiQi\build" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.App">
     <configuration default="false" name="MainFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -660,7 +651,7 @@
       <workItem from="1501864752714" duration="828000" />
       <workItem from="1501867139902" duration="62000" />
       <workItem from="1501867268234" duration="84000" />
-      <workItem from="1502438704519" duration="100000" />
+      <workItem from="1502438704519" duration="874000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1501864060743</created>
@@ -673,7 +664,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21990000" />
+    <option name="totallyTimeSpent" value="22764000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -682,10 +673,11 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32786885" sideWeight="0.4969743" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28688523" sideWeight="0.31467474" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32786885" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2618658" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6147541" sideWeight="0.68532526" order="8" side_tool="false" content_ui="tabs" />
@@ -705,7 +697,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -753,6 +744,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
+            <element signature="imports" expanded="true" />
             <element signature="e#1244#1245#0" expanded="true" />
             <element signature="e#1283#1284#0" expanded="true" />
             <element signature="e#1503#1504#0" expanded="true" />
@@ -967,28 +959,30 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mrhuo/gobang/events/OnUserLoginListener.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/mrhuo/gobang/ui/MainFrame.java">
+    <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2568">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="72">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="24">
-            <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/src/com/mrhuo/gobang/ui/MainFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1207">
+          <caret line="76" column="16" lean-forward="false" selection-start-line="76" selection-start-column="16" selection-end-line="76" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mrhuo/gobang/ui/LoginFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="65" column="32" lean-forward="true" selection-start-line="65" selection-start-column="32" selection-end-line="65" selection-end-column="32" />
+        <state relative-caret-position="118">
+          <caret line="39" column="42" lean-forward="false" selection-start-line="39" selection-start-column="42" selection-end-line="39" selection-end-column="42" />
           <folding>
+            <element signature="imports" expanded="true" />
             <element signature="e#1244#1245#0" expanded="true" />
             <element signature="e#1283#1284#0" expanded="true" />
             <element signature="e#1503#1504#0" expanded="true" />
@@ -996,6 +990,17 @@
             <element signature="e#2360#2361#0" expanded="true" />
             <element signature="e#2399#2400#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="421">
+            <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
