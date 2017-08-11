@@ -4,13 +4,10 @@
 
 package com.mrhuo.gobang.ui;
 
-import com.mrhuo.gobang.bean.CONSTANT;
-import com.mrhuo.gobang.bean.ChessColor;
 import com.mrhuo.gobang.bean.User;
-import sun.swing.UIAction;
+import com.mrhuo.gobang.common.CONSTANT;
 
 import javax.swing.*;
-import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
@@ -69,16 +66,16 @@ public class LoginFrame extends JDialog {
         //this.setVisible(true);
     }
 
-    private void login(){
+    private void login() {
         if (this.textFieldForUserName.getText().equals("")) {
-            JOptionPane.showMessageDialog(this,"用户昵称不能为空！");
+            JOptionPane.showMessageDialog(this, "用户昵称不能为空！");
             return;
         }
-        this.loginedUser = new User(this.textFieldForUserName.getText(), ChessColor.NULL);
+        this.loginedUser = new User(this.textFieldForUserName.getText(), null);
         this.setVisible(false);
     }
 
-    public User getLoginedUser(){
+    public User getLoginedUser() {
         return this.loginedUser;
     }
 }
